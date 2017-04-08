@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Thiago Kenji Okada</copyright>
-    <lastBuildDate>Fri, 07 Apr 2017 13:52:48 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 07 Apr 2017 20:32:25 -0300</lastBuildDate>
     
 	<atom:link href="https://m45t3r.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Programming Languages in 15 years</title>
+      <link>https://m45t3r.github.io/2017/04/07/programming-languages-in-15-years/</link>
+      <pubDate>Fri, 07 Apr 2017 20:32:25 -0300</pubDate>
+      
+      <guid>https://m45t3r.github.io/2017/04/07/programming-languages-in-15-years/</guid>
+      <description>This is a post that I wanted to write for a long time. The idea is to imagine how popular todays&amp;rsquo; most popular programming languages will be in 15 years.
+15 years was chosen because it is quite a nice period of time: 10 years would be too soon so that the programming landscape wouldn&amp;rsquo;t change too much from what it is nowadays. 20 years is too long of a period to make any kind of precise foresight.</description>
+    </item>
     
     <item>
       <title>About me</title>
